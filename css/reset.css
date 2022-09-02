@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul, li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: inherit; /* '부모요소'로부터 상속 */
+}
+img {
+    vertical-align: middle; /* 이미지 간 여백 발생 방지. 속성 값은 아무거나 상관 X */
+}
